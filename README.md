@@ -1,5 +1,6 @@
-# Vinícius Silva
-### I'm a software developer fascinated by technology, discovering new things and games.
+<!-- Header -->
+## <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 20px> Hi! I'm Vinicius
+---
 
 
 
